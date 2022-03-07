@@ -1,7 +1,7 @@
 import React from 'react'
 
 function Hello() {
-    DONE WITH JSX
+    //DONE WITH JSX
     return (
         <div id="hello" className="dummyClass" >Hello Francis</div>
         )
